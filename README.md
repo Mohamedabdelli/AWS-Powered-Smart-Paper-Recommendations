@@ -15,8 +15,9 @@ Before you start, make sure you have the following:
    Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
-   cd your-project ```
+   git clone https://github.com/Mohamedabdelli/AWS-Powered-Smart-Paper-Recommendations.git
+   cd your-project 
+   ```
 
 2. **Configure Terraform**
 
@@ -45,3 +46,9 @@ Ensure that you have Terraform installed. Run the following commands to deploy t
 terraform init
 terraform apply --auto-approve
 ```
+
+## Additional Resources
+
+For more details about the project, you can read the in-depth article on Medium:
+
+[Read the Medium Article](https://medium.com/@abdellimohamedammar/developing-an-end-to-end-aws-powered-llm-chat-interface-for-conversational-research-with-364451812f10)
