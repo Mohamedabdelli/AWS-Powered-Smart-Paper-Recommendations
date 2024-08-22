@@ -16,7 +16,7 @@ Before you start, make sure you have the following:
 
    ```bash
    git clone https://github.com/Mohamedabdelli/AWS-Powered-Smart-Paper-Recommendations.git
-   cd your-project 
+   cd AWS-Powered-Smart-Paper-Recommendations
    ```
 
 2. **Configure Terraform**
